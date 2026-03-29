@@ -77,26 +77,33 @@ Screenshots here :
 
 
 Script 1-
-<img width="602" height="371" alt="image" src="https://github.com/user-attachments/assets/a7fe31f2-990c-4861-8f03-a7baee8f191c" />
 
 
-<img width="603" height="330" alt="image" src="https://github.com/user-attachments/assets/d41716f2-b319-463f-99f5-1b46d024403a" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a7fe31f2-990c-4861-8f03-a7baee8f191c" />
+
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d41716f2-b319-463f-99f5-1b46d024403a" />
 
 
 Script 2-
-<img width="602" height="628" alt="image" src="https://github.com/user-attachments/assets/6274dc24-3736-473f-ab2e-13d0b14ae3c4" />
+
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6274dc24-3736-473f-ab2e-13d0b14ae3c4" />
 
 
 Script 3-
-<img width="864" height="1058" alt="image" src="https://github.com/user-attachments/assets/ea49283f-9b77-44be-9eb1-ab93a3574ff4" />
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ea49283f-9b77-44be-9eb1-ab93a3574ff4" />
 
 
 Script 4-
-<img width="940" height="1012" alt="image" src="https://github.com/user-attachments/assets/7f5f2447-b4e5-412c-baf7-e24d184389f7" />
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7f5f2447-b4e5-412c-baf7-e24d184389f7" />
 
 
 Script 5-
-<img width="940" height="868" alt="image" src="https://github.com/user-attachments/assets/071c4f0b-3780-420d-98f5-b985e6870b20" />
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/071c4f0b-3780-420d-98f5-b985e6870b20" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
