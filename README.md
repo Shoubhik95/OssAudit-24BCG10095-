@@ -39,19 +39,19 @@ I have written different scripts to check system details, software availability,
 ## Scripts Overview
 
 Script 1: System Identity  
-This script shows basic system information like kernel version, user name, uptime, and date.
+
 
 Script 2: Package Check  
-This script checks whether Python is available and shows its version.
+
 
 Script 3: Directory Check  
-This script looks at some important folders and shows their permissions and size.
+
 
 Script 4: Log Check  
-This script searches for keywords like "error" and counts how many times they appear.
+
 
 Script 5: Manifesto Generator  
-This script takes input from the user and creates a small statement about open-source usage.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
