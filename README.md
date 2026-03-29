@@ -14,9 +14,9 @@ registration number :- 24BCG10095
 
 
 ## Project Description
-This project is based on understanding how open-source software works in a Linux environment using simple Bash scripting. For this project, I have chosen Python Programming Language as the main software.
+This project is about figuring out how open source software works on Linux. I used simple Bash scripting to learn about it. For this project I picked the Python Programming Language as the software I wanted to use.
 
-I have written different scripts to check system details, software availability, and basic system behavior. These scripts helped me understand how different system components work and how tasks can be automated using Bash scripting.
+I made a scripts to see what my system is like what software I have and how the system behaves. These scripts really helped me understand how all the parts of the system work together and how I can use Bash scripting to tasks. I learned a lot, about the system. How Python Programming Language works on Linux by using Bash scripting.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -109,6 +109,6 @@ Script 5-
 
 
 ## Conclusion
-This project helped me understand how open-source tools work in a Linux environment and how Bash scripting can be used to perform basic system-level tasks. Through different scripts, I was able to explore system information, software verification, directory analysis, and simple log handling.
+I learned a lot from this project about how open-source tools work with Linux. I figured out how to use Bash scripting to do tasks on the system. I tried out scripts and I was able to see what is going on in the system check the software look at the directories and deal with simple logs.
 
-Even though the setup environment was limited, I focused on understanding the logic and working of each command and script as used in Linux systems. This approach helped me gain practical knowledge of how such scripts would function in an actual Linux environment. Overall, the project improved my understanding of scripting, system operations, and the use of Python as an open-source tool.
+I did not have a lot of room to work with the setup. I made sure to understand how each command and script works in Linux. I wanted to know how they work so I can use them in a Linux setup. This way I learned a lot about how these scripts work in life. The project really helped me understand scripting and how the system works. It also taught me about using Python as an open-source tool. I got to know more, about Linux and the open-source tools and how they work together.
